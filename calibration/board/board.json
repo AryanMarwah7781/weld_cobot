@@ -1,0 +1,8 @@
+{
+  "squares_x": 7,
+  "squares_y": 5,
+  "square_mm": 31.79,
+  "marker_mm": 23.31,
+  "dictionary": "DICT_5X5_100",
+  "note": "Temporary board: charuco_7x5_30mm_A4_prescaled_x1.093.pdf printed 2026-10-02. Measured 221 mm / 7 = 31.57 and 160 mm / 5 = 32.00 (printer stretches anisotropically ~1.3%). square_mm is the mean; marker_mm keeps the 22/30 design ratio. Replace with a precision board and re-measure."
+}
